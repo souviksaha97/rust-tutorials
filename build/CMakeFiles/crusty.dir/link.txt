@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/crusty.dir/crusty.c.o -o crusty  /home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/target/debug/librusty.a 

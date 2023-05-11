@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/souvik/GitLab/Embedded/rust-tutorials/build",
+  "command": "/usr/bin/gcc  -I/home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/target/debug -g -o CMakeFiles/crusty.dir/crusty.c.o -c /home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/crusty.c",
+  "file": "/home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/crusty.c"
+}
+]

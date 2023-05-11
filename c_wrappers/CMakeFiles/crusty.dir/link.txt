@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/crusty.dir/crusty.c.o -o crusty  target/debug/librusty.a 

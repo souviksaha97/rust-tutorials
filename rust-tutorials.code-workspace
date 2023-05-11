@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"rust-analyzer.linkedProjects": [
+			"./c_wrappers/Cargo.toml"
+		]
+	}
 }

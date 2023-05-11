@@ -1,0 +1,3 @@
+/home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/CMakeFiles/crusty.dir
+/home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/CMakeFiles/edit_cache.dir
+/home/souvik/GitLab/Embedded/rust-tutorials/c_wrappers/CMakeFiles/rebuild_cache.dir
