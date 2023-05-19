@@ -7,6 +7,9 @@
 	"settings": {
 		"rust-analyzer.linkedProjects": [
 			"./c_wrappers/Cargo.toml"
-		]
+		],
+		"files.associations": {
+			"*.html": "cpp"
+		}
 	}
 }
