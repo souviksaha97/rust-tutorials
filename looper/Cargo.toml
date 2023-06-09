@@ -1,12 +1,9 @@
 [package]
-name = "mti"
+name = "looper"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-microfft = "0.5.0"
-micromath = "2.0.0"
-dsp = "0.10.2"
 serde_json = "1.0.96"
